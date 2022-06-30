@@ -4,13 +4,18 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3995" />
+        <entry key="app/src/main/res/drawable/empty_star.xml" value="0.348" />
+        <entry key="app/src/main/res/drawable/fix_profile.xml" value="0.348" />
+        <entry key="app/src/main/res/drawable/ic_baseline_assignment_24.xml" value="0.3605" />
         <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.3425" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.348" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3995" />
+        <entry key="app/src/main/res/drawable/rectangle_5.xml" value="0.348" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.38958333333333334" />
-        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.32183535514621586" />
         <entry key="app/src/main/res/layout/fragment_contest.xml" value="0.4036458333333333" />
-        <entry key="app/src/main/res/layout/fragment_my_contest.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_my_contest.xml" value="0.39799499511718756" />
         <entry key="app/src/main/res/layout/fragment_my_page.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/fragment_my_team.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/menu/nav_menu.xml" value="0.4036458333333333" />
@@ -22,5 +27,12 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4036458333333333" />
+      </ProjectState>
+    </option>
   </component>
 </project>
