@@ -18,12 +18,13 @@
         <entry key="app/src/main/res/drawable/ic_baseline_person_pin_24.xml" value="0.348" />
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3995" />
         <entry key="app/src/main/res/drawable/rectangle_5.xml" value="0.348" />
+        <entry key="app/src/main/res/drawable/rectangle_7.xml" value="0.381" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.38958333333333334" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.32183535514621586" />
         <entry key="app/src/main/res/layout/fragment_contest.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/fragment_my_contest.xml" value="0.39799499511718756" />
-        <entry key="app/src/main/res/layout/fragment_my_page.xml" value="0.4036458333333333" />
+        <entry key="app/src/main/res/layout/fragment_my_page.xml" value="0.4467496542185339" />
         <entry key="app/src/main/res/layout/fragment_my_team.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/menu/nav_menu.xml" value="0.4036458333333333" />
       </map>
