@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/ic_contest"
+        android:icon="@drawable/ic_baseline_assignment_24"
+        android:title="공모전"/>
+
+    <item
+        android:id="@+id/ic_myContest"
+        android:icon="@drawable/ic_baseline_assignment_ind_24"
+        android:title="진행중"/>
+
+    <item
+        android:id="@+id/ic_myTeam"
+        android:icon="@drawable/ic_baseline_chat_24"
+        android:title="나의 팀"/>
+
+    <item
+        android:id="@+id/ic_myPage"
+        android:icon="@drawable/ic_baseline_person_24"
+        android:title="마이페이지"/>
+
+
+</menu>
