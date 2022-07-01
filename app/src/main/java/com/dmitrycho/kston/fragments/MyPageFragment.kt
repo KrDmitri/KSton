@@ -1,11 +1,14 @@
 package com.dmitrycho.kston.fragments
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
+import com.dmitrycho.kston.EditProfileActivity
 import com.dmitrycho.kston.R
+import com.dmitrycho.kston.databinding.FragmentMyPageBinding
 
 // TODO: Rename parameter arguments, choose names that match
 // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
@@ -28,6 +31,7 @@ class MyPageFragment : Fragment() {
             param1 = it.getString(ARG_PARAM1)
             param2 = it.getString(ARG_PARAM2)
         }
+
     }
 
     override fun onCreateView(
@@ -35,7 +39,16 @@ class MyPageFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_my_page, container, false)
+        val binding = FragmentMyPageBinding.inflate(inflater, container, false)
+
+        binding.editProfileBtn.setOnClickListener {
+            val intent = Intent(context, EditProfileActivity::class.java)
+
+            startActivity(intent)
+        }
+
+        return binding.root
+//        return inflater.inflate(R.layout.fragment_my_page, container, false)
     }
 
     companion object {

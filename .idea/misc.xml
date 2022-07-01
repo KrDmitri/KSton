@@ -19,18 +19,20 @@
         <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.3995" />
         <entry key="app/src/main/res/drawable/rectangle_5.xml" value="0.348" />
         <entry key="app/src/main/res/drawable/rectangle_7.xml" value="0.381" />
+        <entry key="app/src/main/res/layout/activity_edit_profile.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/activity_home.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3098958333333333" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.38958333333333334" />
         <entry key="app/src/main/res/layout/activity_splash.xml" value="0.32183535514621586" />
         <entry key="app/src/main/res/layout/fragment_contest.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/layout/fragment_my_contest.xml" value="0.39799499511718756" />
-        <entry key="app/src/main/res/layout/fragment_my_page.xml" value="0.4467496542185339" />
+        <entry key="app/src/main/res/layout/fragment_my_page.xml" value="0.22711029052734377" />
         <entry key="app/src/main/res/layout/fragment_my_team.xml" value="0.4036458333333333" />
         <entry key="app/src/main/res/menu/nav_menu.xml" value="0.4036458333333333" />
       </map>
     </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="11" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
